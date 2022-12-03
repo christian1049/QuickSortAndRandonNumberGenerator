@@ -1,0 +1,8 @@
+The quick sort algorithm works with an input file. 
+It can create an output file with the sorted numbers. 
+It also produces the execution time but it is tricky of when it lists the number without rounding. 
+
+The input file generator creates 25 input files from -500 to 500 with decimals. It sorts them into the appropriate folder. 
+The makefile also works in the command prompt with g++ -c Lee_Christian_QuickSort.cpp. Then typing ./Lee_Christian_QuickSort.
+It will sort the input file and then produce an output file.
+
